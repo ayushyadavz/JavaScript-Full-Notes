@@ -1,10 +1,10 @@
 # Javascript Full Notes 📖
 
-Basically in this repo you will find the Javascript topic wise codes with notes on every line of code. Beginner friendly JS notes, you can learn, revise e.t.c.
+This repository contains topic-wise JavaScript code examples with detailed line-by-line explanations. It is beginner-friendly and helpful for learning and revision.
 
 
 ## 🚀 About Me
-I'm currently learning Web Developemt & I'm also doing learn in public on my Twitter [ayushyadavz](https://twitter.com/ayushyadavz).
+I'm currently learning Web Development and sharing my learning journey  on my Twitter [ayushyadavz](https://twitter.com/ayushyadavz).
 
 
 ## Feedback
